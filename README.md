@@ -1,1 +1,1 @@
-# This repo contains different technologies which I try out in my leisure.
+# This repo contains code written for different technologies which I try out in my leisure.
